@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+pandas
+spacy
+sentence-transformers
+faiss-cpu
+experta
