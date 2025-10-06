@@ -1,9 +1,0 @@
-streamlit
-scikit-learn
-pandas
-spacy
-en_core_web_sm
-sentence-transformers
-faiss-cpu
-
-experta
